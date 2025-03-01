@@ -27,12 +27,11 @@ I am a **Data Enthusiast** with a passion for uncovering insights from data, bui
 
 Feel free to connect with me here:
 
-<a href="mailto:username@gmail.com">
-  <img src="https://img.shields.io/badge/evaanurkhofifah@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  evaanurkhofifah@gmail.com
+<a href="mailto:evaanurkhofifah@gmail.com">
+  <img src="https://img.shields.io/badge/email-evaanurkhofifah@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://twitter.com/username">
-  <img src="https://img.shields.io/badge/@envaaa_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">@envaaa_
+<a href="https://twitter.com/@envaaa_">
+  <img src="https://img.shields.io/badge/twitter-@envaaa_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter">
 </a>
 
 
