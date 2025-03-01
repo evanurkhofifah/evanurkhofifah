@@ -1,7 +1,5 @@
 ## Hi there, I'm Eva Nurkhofifah👋
-I am a **Data Enthusiast** with a passion for uncovering insights from data, building machine learning models, and creating data-driven solutions.  
-I love working with data, whether it's cleaning messy datasets, visualizing trends, or training predictive models.  
-I am always open to collaborating on **data science, machine learning, and analytics projects**.
+I am a **Data Enthusiast** with a passion for uncovering insights from data, building machine learning models, and creating data-driven solutions. I love working with data, whether it's cleaning messy datasets, visualizing trends, or training predictive models. I am always open to collaborating on **data science, machine learning, and analytics projects**.
 
 ## ⚡ Technologies & Tools
 
@@ -29,8 +27,8 @@ I am always open to collaborating on **data science, machine learning, and analy
 
 Feel free to connect with me here:
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:evaanurkhofifah@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/envaaa_) 
+[![Email](https://img.shields.io/badge/evaanurkhofifah@gmail.com-red?style=for-the-badge)](mailto:evaanurkhofifah@gmail.com)
+[![Twitter](https://img.shields.io/badge/@envaaa_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/envaaa_) 
 
 Thanks for stopping by! 🚀 Feel free to reach out if you'd like to collaborate on exciting data projects.  
 
