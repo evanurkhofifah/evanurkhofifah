@@ -34,10 +34,10 @@ Feel free to connect with me here:
 
 Thanks for stopping by! 🚀 Feel free to reach out if you'd like to collaborate on exciting data projects.  
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=evanurkhofifah)
+![Visitor Count](https://komarev.com/ghpvc/?username=evanurkhofifah&color=blue)
 <!--
 **evanurkhofifah/evanurkhofifah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=evanurkhofifah)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
