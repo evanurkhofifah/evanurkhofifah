@@ -27,8 +27,14 @@ I am a **Data Enthusiast** with a passion for uncovering insights from data, bui
 
 Feel free to connect with me here:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30"/>](https://twitter.com/envaaa_)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30"/>](mailto:evaanurkhofifah@gmail.com)
+<a href="mailto:username@gmail.com">
+  <img src="https://img.shields.io/badge/evaanurkhofifah@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  evaanurkhofifah@gmail.com
+</a>
+<a href="https://twitter.com/username">
+  <img src="https://img.shields.io/badge/@envaaa_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">@envaaa_
+</a>
+
 
 Thanks for stopping by! 🚀 Feel free to reach out if you'd like to collaborate on exciting data projects.  
 
