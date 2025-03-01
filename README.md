@@ -27,9 +27,6 @@ I am always open to collaborating on **data science, machine learning, and analy
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## 📊 Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evanurkhofifah&layout=compact&theme=radical)
-
 Feel free to connect with me here:
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:evaanurkhofifah@gmail.com)
