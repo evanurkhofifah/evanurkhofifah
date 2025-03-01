@@ -27,8 +27,8 @@ I am a **Data Enthusiast** with a passion for uncovering insights from data, bui
 
 Feel free to connect with me here:
 
-[![Email](https://img.shields.io/badge/evaanurkhofifah@gmail.com-red?style=for-the-badge)](mailto:evaanurkhofifah@gmail.com)
-[![Twitter](https://img.shields.io/badge/@envaaa_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/envaaa_) 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30"/>](https://twitter.com/envaaa_)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30"/>](mailto:evaanurkhofifah@gmail.com)
 
 Thanks for stopping by! 🚀 Feel free to reach out if you'd like to collaborate on exciting data projects.  
 
@@ -36,6 +36,8 @@ Thanks for stopping by! 🚀 Feel free to reach out if you'd like to collaborate
 <!--
 **evanurkhofifah/evanurkhofifah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=evanurkhofifah)
+[![Email](https://img.shields.io/badge/evaanurkhofifah@gmail.com-red?style=for-the-badge)](mailto:evaanurkhofifah@gmail.com)
+[![Twitter](https://img.shields.io/badge/@envaaa_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/envaaa_)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
